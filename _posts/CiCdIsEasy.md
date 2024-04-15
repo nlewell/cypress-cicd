@@ -10,7 +10,7 @@ ogImage:
   url: "/assets/blog/ciCd/quality.jpeg"
 ---
 
-More and more changes and I decided to expand my other post [QA and CI/CD with Vercel and GitHub Actions](https://www.capocaccia.dev/posts/CiCdWithVercelAndGitHubActions). The goal is I want a true CI/CD workflow.
+More and more and more changes and I decided to expand my other post [QA and CI/CD with Vercel and GitHub Actions](https://www.capocaccia.dev/posts/CiCdWithVercelAndGitHubActions). The goal is I want a true CI/CD workflow.
 
 ## Deliverable:
 
